@@ -1,0 +1,1 @@
+import CheckIn from './check-in';export default function Join(){return <CheckIn/>;}
